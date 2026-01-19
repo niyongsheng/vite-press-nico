@@ -1,0 +1,28 @@
+{
+  "name": "vitepress-project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "unplugin-auto-import": "^20.1.0",
+    "unplugin-vue-components": "^29.0.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.13"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
+    "element-plus": "^2.11.1",
+    "vitepress-colorful-themes": "^1.1.1"
+  }
+}
