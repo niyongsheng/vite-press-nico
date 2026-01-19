@@ -7,7 +7,6 @@ export default defineConfig({
     title: 'LoopLoopTech',
     description: '一个独立开发者的项目介绍和源码销售网站。',
     lang: 'zh-CN',
-    base: '/vite-press-nico/',
     locales: {
         root: {
             label: '中文',
