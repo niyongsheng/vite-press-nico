@@ -726,7 +726,7 @@ var require_isSameOrBefore = __commonJS({
 
 // node_modules/vitepress-colorful-themes/index.ts
 import DefaultTheme from "vitepress/theme";
-import Layout from "/Users/nigang/work_space/SourceTree/vite-press-nico/my-docs/node_modules/vitepress-colorful-themes/Layout.vue";
+import Layout from "/Users/nigang/work_space/SourceTree/vite-press-nico/node_modules/vitepress-colorful-themes/Layout.vue";
 
 // node_modules/element-plus/es/version.mjs
 var version = "2.11.1";
@@ -70383,10 +70383,10 @@ var install = installer.install;
 var version3 = installer.version;
 
 // node_modules/vitepress-colorful-themes/index.ts
-import "/Users/nigang/work_space/SourceTree/vite-press-nico/my-docs/node_modules/vitepress-colorful-themes/style.css";
-import "/Users/nigang/work_space/SourceTree/vite-press-nico/my-docs/node_modules/vitepress-colorful-themes/styles/themes.css";
-import "/Users/nigang/work_space/SourceTree/vite-press-nico/my-docs/node_modules/vitepress-colorful-themes/styles/theme-transitions.css";
-import "/Users/nigang/work_space/SourceTree/vite-press-nico/my-docs/node_modules/vitepress-colorful-themes/styles/element-overrides.css";
+import "/Users/nigang/work_space/SourceTree/vite-press-nico/node_modules/vitepress-colorful-themes/style.css";
+import "/Users/nigang/work_space/SourceTree/vite-press-nico/node_modules/vitepress-colorful-themes/styles/themes.css";
+import "/Users/nigang/work_space/SourceTree/vite-press-nico/node_modules/vitepress-colorful-themes/styles/theme-transitions.css";
+import "/Users/nigang/work_space/SourceTree/vite-press-nico/node_modules/vitepress-colorful-themes/styles/element-overrides.css";
 var vitepress_colorful_themes_default = {
   extends: DefaultTheme,
   // 扩展默认的Layout，而不是替换它
