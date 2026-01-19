@@ -1,5 +1,5 @@
 # VitePress
-![(logo)](./logo.svg)
+![(logo)](./logo.png)
 ===
 ![Pages](https://img.shields.io/badge/Developing-0.0.1-brightgreen.svg?style=flat-square)
 ===
@@ -18,10 +18,6 @@ yarn create vitepress my-docs
 ```
 
 ### 2. 安装依赖
-进入项目目录：
-```bash
-cd my-docs
-```
 安装主题以及相关依赖：
 ```bash
 # 安装 vitepress-colorful-themes
