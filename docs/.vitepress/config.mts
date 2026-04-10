@@ -33,8 +33,17 @@ export default defineConfig({
                         text: '网站',
                         items: [
                             { text: 'YohoPVC', link: 'https://yohopvc.com' },
+                            { text: 'YouhePVC', link: 'https://youhepvc.com' },
                             { text: 'HandPanCraft', link: 'https://handpancraft.com' },
                             { text: 'HuilangHome', link: 'https://huilanghome.com' }
+                        ]
+                    },
+                    {
+                        text: '框架',
+                        items: [
+                            { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
+                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
                         ]
                     },
                     { text: '💼 商务合作', link: '/purchase/' },
@@ -62,6 +71,22 @@ export default defineConfig({
                             { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
                             { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
                             { text: 'ST - Smart Canteen Management System', link: '/en/projects/st' }
+                        ]
+                    },
+                    {
+                        text: 'Webs',
+                        items: [
+                            { text: 'YohoPVC', link: 'https://yohopvc.com' },
+                            { text: 'HandPanCraft', link: 'https://handpancraft.com' },
+                            { text: 'HuilangHome', link: 'https://huilanghome.com' }
+                        ]
+                    },
+                    {
+                        text: 'Frameworks',
+                        items: [
+                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
+                            { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
                         ]
                     },
                     { text: '💳 Business', link: '/en/purchase/' },
