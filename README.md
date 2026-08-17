@@ -1,6 +1,6 @@
 # Nico - VitePress 文档系统
 
-<img src="./logo.png" alt="LoopLoopTech Logo" width="100" />
+<img src="./logo.png" alt="NicoLab Logo" width="100" />
 
 ![Pages](https://img.shields.io/badge/Developing-0.0.1-brightgreen.svg?style=flat-square)
 

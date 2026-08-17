@@ -4,8 +4,8 @@ import Components from 'unplugin-vue-components/vite'
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 export default defineConfig({
-    title: 'LoopLoopTech',
-    description: '一个独立开发者的项目介绍和源码销售网站。',
+    title: 'NicoLab',
+    description: '一个独立开发者的项目介绍网站。',
     lang: 'zh-CN',
     locales: {
         root: {
@@ -15,18 +15,34 @@ export default defineConfig({
                 nav: [
                     { text: '首页', link: '/' },
                     {
-                        text: '项目',
+                        text: '商业项目',
                         items: [
                             { text: '项目概览', link: '/projects/' },
                             { text: 'WMS - 仓库管理系统', link: '/projects/wms' },
                             { text: 'SKC - 智能钥匙柜', link: '/projects/skc' },
                             { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
-                            { text: 'CMS - 合同管理系统', link: '/projects/cms' },
-                            { text: 'QAS - 问答管理系统', link: '/projects/qas' },
-                            { text: 'Packer - 智能装箱算法系统', link: '/projects/packer' },
                             { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
                             { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' },
-                            { text: 'ST - 智慧食堂管理系统', link: '/projects/st' }
+                        ]
+                    },
+                    {
+                        text: '开源项目',
+                        items: [
+                            { text: 'ARCC', link: 'https://github.com/niyongsheng/arcc' },
+                            { text: 'Moler', link: 'https://github.com/niyongsheng/moler' },
+                            { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
+                            { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
+                            { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
+                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' }
+                        ]
+                    },
+                    {
+                        text: '开源框架',
+                        items: [
+                            { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
+                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' },
+                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' }
                         ]
                     },
                     {
@@ -35,19 +51,12 @@ export default defineConfig({
                             { text: 'YohoPVC', link: 'https://yohopvc.com' },
                             { text: 'YouhePVC', link: 'https://youhepvc.com' },
                             { text: 'HandPanCraft', link: 'https://handpancraft.com' },
-                            { text: 'HuilangHome', link: 'https://huilanghome.com' }
+                            { text: 'HuilangHome', link: 'https://huilanghome.com' },
+                            { text: 'duckly日程管理', link: 'https://niyongsheng.github.io/duckly' },
+                            { text: 'SteelTide坦克生存', link: 'https://niyongsheng.github.io/SteelTide' }
                         ]
                     },
-                    {
-                        text: '框架',
-                        items: [
-                            { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
-                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
-                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
-                        ]
-                    },
-                    { text: '💼 商务合作', link: '/purchase/' },
-                    { text: '关于', link: '/about/' }
+                    { text: '关于我', link: '/about/' }
                 ]
             }
         },
@@ -65,31 +74,41 @@ export default defineConfig({
                             { text: 'WMS - Warehouse Management System', link: '/en/projects/wms' },
                             { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
                             { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
-                            { text: 'CMS - Contract Management System', link: '/en/projects/cms' },
-                            { text: 'QAS - Q&A Management System', link: '/en/projects/qas' },
-                            { text: 'Packer - Smart Packing Algorithm System', link: '/en/projects/packer' },
                             { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
-                            { text: 'ST - Smart Canteen Management System', link: '/en/projects/st' }
+                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
                         ]
                     },
                     {
-                        text: 'Webs',
+                        text: 'Open Source',
                         items: [
-                            { text: 'YohoPVC', link: 'https://yohopvc.com' },
-                            { text: 'HandPanCraft', link: 'https://handpancraft.com' },
-                            { text: 'HuilangHome', link: 'https://huilanghome.com' }
+                            { text: 'ARCC', link: 'https://github.com/niyongsheng/arcc' },
+                            { text: 'Moler', link: 'https://github.com/niyongsheng/moler' },
+                            { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
+                            { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
+                            { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
+                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' }
                         ]
                     },
                     {
                         text: 'Frameworks',
                         items: [
-                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
-                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
+                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
+                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' },
+                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' }
                         ]
                     },
-                    { text: '💳 Business', link: '/en/purchase/' },
+                    {
+                        text: 'Websites',
+                        items: [
+                            { text: 'YohoPVC', link: 'https://yohopvc.com' },
+                            { text: 'YouhePVC', link: 'https://youhepvc.com' },
+                            { text: 'HandPanCraft', link: 'https://handpancraft.com' },
+                            { text: 'HuilangHome', link: 'https://huilanghome.com' },
+                            { text: 'Duckly - Schedule Management', link: 'https://niyongsheng.github.io/duckly' },
+                            { text: 'SteelTide - Tank Survival', link: 'https://niyongsheng.github.io/SteelTide' }
+                        ]
+                    },
                     { text: 'About', link: '/en/about/' }
                 ]
             }
@@ -107,7 +126,7 @@ export default defineConfig({
     appearance: true,
     themeConfig: {
         // 基础主题配置
-        siteTitle: 'LoopLoopTech',
+        siteTitle: 'NicoLab',
         logo: '/logo.svg',
 
         sidebar: {
@@ -119,12 +138,8 @@ export default defineConfig({
                         { text: 'WMS - 仓库管理系统', link: '/projects/wms' },
                         { text: 'SKC - 智能钥匙柜', link: '/projects/skc' },
                         { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
-                        { text: 'CMS - 合同管理系统', link: '/projects/cms' },
-                        { text: 'QAS - 问答管理系统', link: '/projects/qas' },
-                        { text: 'Packer - 智能装箱算法系统', link: '/projects/packer' },
                         { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
-                        { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' },
-                        { text: 'ST - 智慧食堂管理系统', link: '/projects/st' }
+                        { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' }
                     ]
                 }
             ],
@@ -136,12 +151,8 @@ export default defineConfig({
                         { text: 'WMS - Warehouse Management System', link: '/en/projects/wms' },
                         { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
                         { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
-                        { text: 'CMS - Contract Management System', link: '/en/projects/cms' },
-                        { text: 'QAS - Q&A Management System', link: '/en/projects/qas' },
-                        { text: 'Packer - Smart Packing Algorithm System', link: '/en/projects/packer' },
                         { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                        { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
-                        { text: 'ST - Smart Canteen Management System', link: '/en/projects/st' }
+                        { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
                     ]
                 }
             ],
@@ -149,15 +160,7 @@ export default defineConfig({
                 {
                     text: '关于我们',
                     items: [
-                        { text: '关于 LoopLoopTech', link: '/about/' }
-                    ]
-                }
-            ],
-            '/purchase/': [
-                {
-                    text: '购买服务',
-                    items: [
-                        { text: '服务咨询', link: '/purchase/' },
+                        { text: '关于 NicoLab', link: '/about/' }
                     ]
                 }
             ],
@@ -165,18 +168,10 @@ export default defineConfig({
                 {
                     text: 'About Us',
                     items: [
-                        { text: 'About LoopLoopTech', link: '/en/about/' }
+                        { text: 'About NicoLab', link: '/en/about/' }
                     ]
                 }
             ],
-            '/en/purchase/': [
-                {
-                    text: 'Purchase Services',
-                    items: [
-                        { text: 'Service Advisory', link: '/en/purchase/' },
-                    ]
-                }
-            ]
         },
         search: {
             provider: 'local',
@@ -225,7 +220,7 @@ export default defineConfig({
         ],
         footer: {
             message: '用代码书写自由，用产品连接世界。',
-            copyright: 'Copyright © 2025 LoopLoopTech. All rights reserved.'
+            copyright: 'Copyright © 2025 NicoLab. All rights reserved.'
         },
         // 禁用赞助商显示
         aside: false,

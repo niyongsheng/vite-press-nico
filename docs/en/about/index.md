@@ -1,8 +1,8 @@
-# About LoopLoopTech
+# About NicoLab
 
 ## 🚀 Who We Are
 
-LoopLoopTech is a professional full-stack development team led by Nico, specializing in providing end-to-end software solutions for businesses worldwide.
+NicoLab is a professional full-stack development team led by Nico, specializing in providing end-to-end software solutions for businesses worldwide.
 
 ## 🎯 Our Mission
 
@@ -105,8 +105,30 @@ Ready to start your next project? We'd love to hear from you!
 - **WhatsApp**: Available for international clients
 - **Response Time**: Within 2 hours during business days
 
+## 💼 Business Cooperation
+
+*If customers know you haven't wasted their time, they will be generous.*
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 30px 0; flex-wrap: wrap; gap: 20px;">
+
+<div style="text-align: center;">
+  <img src="/wechat.png" alt="WeChat QR Code" style="width: 180px; height: 180px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3>WeChat</h3>
+  <p>Scan QR code to add WeChat for direct communication</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/whatsapp.png" alt="WhatsApp QR Code" style="width: 180px; height: 180px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3>WhatsApp</h3>
+  <p>International clients can contact via WhatsApp</p>
+</div>
+
+</div>
+
+*Contact us now to start your digital transformation journey*
+
 ---
 
 **🚀 Let's build something amazing together!**
 
-*Choose LoopLoopTech for professional, reliable, and innovative software solutions*
+*Choose NicoLab for professional, reliable, and innovative software solutions*

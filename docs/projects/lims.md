@@ -76,7 +76,7 @@
 ## 📱 系统访问
 
 ### 🌐 在线演示
-- **管理后台**：[https://lims-admin.looplooptech.com/](https://lims-admin.looplooptech.com/)
+- **管理后台**：[https://www.bilibili.com/video/BV14GbY6LETY](https://www.bilibili.com/video/BV14GbY6LETY)
 
 ### 🔑 测试账号
 > 💡 **请联系开发者获取测试账号和密码**

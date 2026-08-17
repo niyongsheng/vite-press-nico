@@ -109,9 +109,9 @@
 - **H5**：[http://wms-app.nicolab.top/](http://wms-app.nicolab.top/)
 
 #### 备用服务
-- **后台管理**：[http://wms-admin.looplooptech.com/](http://wms-admin.looplooptech.com/)
-- **数据大屏**：[http://wms-admin.looplooptech.com/dashboard/big-data](http://wms-admin.looplooptech.com/dashboard/big-data)
-- **H5**：[http://wms-uni.looplooptech.com/](http://wms-uni.looplooptech.com/)
+- **后台管理**：[http://wms-admin.NicoLab.com/](http://wms-admin.NicoLab.com/)
+- **数据大屏**：[http://wms-admin.NicoLab.com/dashboard/big-data](http://wms-admin.NicoLab.com/dashboard/big-data)
+- **H5**：[http://wms-uni.NicoLab.com/](http://wms-uni.NicoLab.com/)
 
 ### 📱 移动应用
 - **APP**：[https://fir.xcxwo.com/93bhsrl7?release_id=68b11bfdf94548370af85c12](https://fir.xcxwo.com/93bhsrl7?release_id=68b11bfdf94548370af85c12)

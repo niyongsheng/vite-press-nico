@@ -81,13 +81,13 @@
 ## 📱 系统访问
 
 ### 🌐 在线演示
-- **管理后台1**：[http://skc.looplooptech.com/](http://skc.looplooptech.com/)
+- **管理后台1**：[http://skc.NicoLab.com/](http://skc.NicoLab.com/)
 - **管理后台2**：[http://skc-admin.nicolab.top/](http://skc-admin.nicolab.top/)
 - **移动端应用**：[http://skc-app.nicolab.top/](http://skc-app.nicolab.top/)
 
 #### 备用服务
-- **管理后台**：[http://skc-admin.looplooptech.com/](http://skc-admin.looplooptech.com/)
-- **移动端应用**：[http://skc-uni.looplooptech.com/](http://skc-uni.looplooptech.com/)
+- **管理后台**：[http://skc-admin.NicoLab.com/](http://skc-admin.NicoLab.com/)
+- **移动端应用**：[http://skc-uni.NicoLab.com/](http://skc-uni.NicoLab.com/)
 
 <img src="/gh_be84f1a4fe63_258.jpg" alt="小程序二维码" style="width: 180px; height: 180px;">
 

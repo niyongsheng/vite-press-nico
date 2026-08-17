@@ -93,9 +93,9 @@
 ### 🌐 在线演示
 
 #### 正式服务
-- **官网**：[https://icms-web.looplooptech.com/](https://icms-web.looplooptech.com/)
-- **后台**：[https://icms-admin.looplooptech.com/](https://icms-admin.looplooptech.com/)
-- **H5**：[https://icms-uni.looplooptech.com/](https://icms-uni.looplooptech.com/)
+- **官网**：[https://icms-web.NicoLab.com/](https://icms-web.NicoLab.com/)
+- **后台**：[https://icms-admin.NicoLab.com/](https://icms-admin.NicoLab.com/)
+- **H5**：[https://icms-uni.NicoLab.com/](https://icms-uni.NicoLab.com/)
 - **APP**：[https://fir.xcxwo.com/t4fgam8d](https://fir.xcxwo.com/t4fgam8d)
 
 ### 🔑 测试账号
