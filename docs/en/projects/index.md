@@ -2,23 +2,15 @@
 
 ## Product Matrix
 
-### 🏭 WMS [Warehouse Management System](/projects/wms)
+### 🏭 WMS [Warehouse Management System](/en/projects/wms)
 
-### 🔑 SKC [Smart Key Cabinet](/projects/skc)
+### 🔑 SKC [Smart Key Cabinet](/en/projects/skc)
 
-### 🏘️ ICMS [Intelligent Community Management System](/projects/icms)
+### 🏘️ ICMS [Intelligent Community Management System](/en/projects/icms)
 
-### 📋 CMS [Contract Management System](/projects/cms)
+### 🎥 Missage [Audio-Video Chat System](/en/projects/missage)
 
-### ❓ QAS [Question & Answer System](/projects/qas)
-
-### 📦 Packer [Intelligent Packing Algorithm System](/projects/packer)
-
-### 🎥 Missage [Audio-Video Chat System](/projects/missage)
-
-### 🔬 LIMS [Laboratory Information Management System](/projects/lims)
-
-### 😋 ST [Smart Canteen Management System](/projects/st)
+### 🔬 LIMS [Laboratory Information Management System](/en/projects/lims)
 
 ---
 
