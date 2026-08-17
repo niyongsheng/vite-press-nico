@@ -8,12 +8,6 @@
 
 #### 🏘️ ICMS [智慧社区管理系统](/projects/icms)
 
-#### 📋 CMS [合同管理系统](/projects/cms)
-
-#### ❓ QAS [问答管理系统](/projects/qas)
-
-#### 📦 Packer [智能装箱算法系统](/projects/packer)
-
 #### 🎥 Missage [音视频聊天系统](/projects/missage)
 
 #### 🔬 LIMS [实验室信息管理系统](/projects/lims)
