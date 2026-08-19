@@ -1,113 +1,42 @@
-# About NicoLab
+# About Me
 
-## 🚀 Who We Are
+## 👨‍💻 About Nico
 
-NicoLab is a professional full-stack development team led by Nico, specializing in providing end-to-end software solutions for businesses worldwide.
+Hi! I'm **Nico**, a full-stack independent developer at [Looplooptech](https://www.looplooptech.com).
 
-## 🎯 Our Mission
+### 🎯 Vision
+Write freedom with code, connect the world with products.
 
-We believe that technology should serve business growth. Our mission is to transform complex business requirements into elegant, efficient, and scalable software solutions that drive real value for our clients.
+### 💼 Professional Background
+- **Full-Stack Engineer**: 5+ years of full-stack development experience
+- **Product Mindset**: Focused on user experience and business value
+- **Technical Architecture**: Skilled in system design and architecture optimization
+- **Solo Company**: From requirement analysis to product delivery, fully responsible
 
-## 💼 Our Services
+### 🚀 Core Capabilities
+- **Frontend Development**: Vue, iOS, Android, uniApp and other modern frontend frameworks
+- **Backend Development**: Java, TypeScript, Python, C/C++ and more
+- **Database Design**: MySQL, Redis, MQTT and database optimization
+- **System Architecture**: Microservices architecture, cloud-native application design
+- **DevOps**: Docker, CI/CD automated deployment
+- **Project Management**: Agile development, requirement analysis, efficient collaboration
 
-### 🎯 **Full-Stack Development**
-- Frontend and backend development
-- Database design and optimization
-- Cloud deployment and DevOps
-- Mobile application development
+## 🎯 Contact
 
-### 🧠 **Product Strategy**
-- Business requirements analysis
-- User experience design
-- Product architecture planning
-- Technical feasibility assessment
-
-### ⚡ **Project Delivery**
-- Agile development methodology
-- Transparent communication
-- On-time delivery guarantee
-- Quality assurance processes
-
-### 🔧 **Technical Support**
-- Long-term maintenance
-- System optimization
-- Performance monitoring
-- Technical consultation
-
-## 🛠️ Technology Stack
-
-### **Frontend Technologies**
-- Vue.js, React, Angular
-- TypeScript, JavaScript
-- Modern CSS frameworks
-- Progressive Web Apps
-
-### **Backend Technologies**
-- Node.js, Python, Java
-- Microservices architecture
-- RESTful APIs, GraphQL
-- Message queues and caching
-
-### **Database & Cloud**
-- MySQL, PostgreSQL, MongoDB
-- Redis, Elasticsearch
-- AWS, Azure, Google Cloud
-- Docker, Kubernetes
-
-### **Mobile Development**
-- React Native, Flutter
-- Native iOS/Android
-- Cross-platform solutions
-- App store optimization
-
-## 📊 Our Achievements
-
-- **50+** successful projects delivered
-- **95%** client satisfaction rate
-- **30-50%** efficiency improvement for clients
-- **24/7** technical support availability
-- **100%** on-time delivery rate
-
-## 🌍 Global Reach
-
-We serve clients from various industries and regions:
-- **Asia-Pacific**: China, Singapore, Japan, Australia
-- **Europe**: UK, Germany, France, Netherlands
-- **North America**: USA, Canada
-- **Other Regions**: Middle East, Africa
-
-## 🤝 Why Choose Us
-
-### **Professional Excellence**
-- Deep technical expertise
-- Industry best practices
-- Continuous learning and improvement
-- Quality-focused development
-
-### **Business Understanding**
-- Domain knowledge across industries
-- Business process optimization
-- ROI-focused solutions
-- Long-term partnership approach
-
-### **Communication & Transparency**
-- Clear project timelines
-- Regular progress updates
-- Transparent pricing
-- Open communication channels
-
-## 📞 Get In Touch
-
-Ready to start your next project? We'd love to hear from you!
-
+### Basic Info
+- **Name**: Nico
+- **Company**: Looplooptech
 - **Email**: niyongsheng@outlook.com
-- **WeChat**: niyongsheng123
-- **WhatsApp**: Available for international clients
-- **Response Time**: Within 2 hours during business days
+- **Blog**: https://niyongsheng.github.io
 
-## 💼 Business Cooperation
+### Working Hours
+- **Monday - Friday**: 9:00 - 18:00
+- **Weekends**: Arranged based on project needs
+- **Response Time**: Within 2 hours on business days
 
-*If customers know you haven't wasted their time, they will be generous.*
+## 🤝 Business Cooperation
+
+———— If customers know you haven't wasted their time, they will be generous.
 
 <div style="display: flex; justify-content: space-around; align-items: center; margin: 30px 0; flex-wrap: wrap; gap: 20px;">
 
@@ -126,9 +55,3 @@ Ready to start your next project? We'd love to hear from you!
 </div>
 
 *Contact us now to start your digital transformation journey*
-
----
-
-**🚀 Let's build something amazing together!**
-
-*Choose NicoLab for professional, reliable, and innovative software solutions*
