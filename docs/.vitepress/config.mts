@@ -33,6 +33,9 @@ export default defineConfig({
                             { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
                             { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
                             { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
+                            { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
+                            { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
+                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' },
                             { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' }
                         ]
                     },
@@ -40,9 +43,10 @@ export default defineConfig({
                         text: '开源框架',
                         items: [
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
                             { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
-                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' },
-                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' }
+                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
+                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
                         ]
                     },
                     {
@@ -53,7 +57,9 @@ export default defineConfig({
                             { text: 'HandPanCraft', link: 'https://handpancraft.com' },
                             { text: 'HuilangHome', link: 'https://huilanghome.com' },
                             { text: 'duckly日程管理', link: 'https://niyongsheng.github.io/duckly' },
-                            { text: 'SteelTide坦克生存', link: 'https://niyongsheng.github.io/SteelTide' }
+                            { text: 'SteelTide坦克生存', link: 'https://niyongsheng.github.io/SteelTide' },
+                            { text: 'LuckyDraw年会抽奖', link: 'https://niyongsheng.github.io/luck_draw' },
+                            { text: 'kataminoTower立方塔求解器', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
                         ]
                     },
                     { text: '关于我', link: '/about/' }
@@ -86,6 +92,9 @@ export default defineConfig({
                             { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
                             { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
                             { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
+                            { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
+                            { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
+                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' },
                             { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' }
                         ]
                     },
@@ -93,9 +102,10 @@ export default defineConfig({
                         text: 'Frameworks',
                         items: [
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
                             { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
-                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' },
-                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' }
+                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
+                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
                         ]
                     },
                     {
@@ -106,7 +116,9 @@ export default defineConfig({
                             { text: 'HandPanCraft', link: 'https://handpancraft.com' },
                             { text: 'HuilangHome', link: 'https://huilanghome.com' },
                             { text: 'Duckly - Schedule Management', link: 'https://niyongsheng.github.io/duckly' },
-                            { text: 'SteelTide - Tank Survival', link: 'https://niyongsheng.github.io/SteelTide' }
+                            { text: 'SteelTide - Tank Survival', link: 'https://niyongsheng.github.io/SteelTide' },
+                            { text: 'LuckyDraw - Annual Event Draw', link: 'https://niyongsheng.github.io/luck_draw' },
+                            { text: 'Katamino Tower - Cube Tower Solver', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
                         ]
                     },
                     { text: 'About', link: '/en/about/' }
