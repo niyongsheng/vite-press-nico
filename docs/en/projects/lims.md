@@ -2,74 +2,27 @@
 
 ## 📋 Project Overview
 
-**LIMS (Laboratory Information Management System)** is a professional laboratory information management solution designed for research institutes, testing agencies, and corporate laboratories. It covers the full business workflow — from sample management and experimental processes to data analysis and report generation — bringing digitalization, standardization, and intelligence to laboratory management.
+**LIMS (Laboratory Information Management System)** is a digital management platform for environmental testing laboratories. It covers the full business loop — from scheme design, record generation, and quality control to report generation — with built-in workflow approval, dynamic permissions, scheduled tasks, and an AI Agent, bringing digitalization and standardization to laboratory management.
 
 ### 🎯 Key Features
-- **End-to-end workflow**: Complete experimental process from sample intake to report issuance
-- **Standardized operations**: SOP standard operating procedures and quality control systems
-- **Full data traceability**: Complete traceability chain for samples and experimental data
-- **Smart analytics**: Intelligent analysis and validation of experimental data
-- **Compliance management**: Alignment with international standards including ISO 17025 and GLP
-
-## 🚀 Core Modules
-
-### 1. Sample Management
-- **Sample intake**: Registration, labeling, and categorization of samples
-- **Sample tracking**: Real-time status tracking and location management
-- **Sample storage**: Smart storage location recommendations and environmental monitoring
-- **Sample disposal**: Management of sample disposal, archiving, and transfer
-
-### 2. Experiment Workflow
-- **Experiment planning**: Experiment design and resource allocation
-- **Experiment execution**: Step-by-step guidance and data recording
-- **Quality control**: QC sample management and result validation
-- **Anomaly handling**: Recording and resolution of experimental anomalies
-
-### 3. Data Management
-- **Data acquisition**: Automatic collection from instruments and manual entry
-- **Data processing**: Data cleaning, calculation, and transformation
-- **Data analysis**: Statistical, trend, and comparative analysis
-- **Data storage**: Secure storage, backup, and recovery
-
-### 4. Report Management
-- **Report generation**: Automated generation of experiment reports and certificates
-- **Report review**: Multi-level review workflow with electronic signatures
-- **Report publishing**: Distribution, archiving, and retrieval of reports
-- **Template management**: Report template design and version control
-
-### 5. Equipment Management
-- **Equipment records**: Equipment information, calibration records, and maintenance history
-- **Equipment monitoring**: Equipment status monitoring and usage statistics
-- **Calibration management**: Calibration scheduling, execution, and recording
-- **Maintenance management**: Maintenance planning, execution, and cost tracking
-
-### 6. Personnel Management
-- **Personnel records**: Employee information, qualifications, and training history
-- **Access control**: Role-based permission management
-- **Workload analytics**: Workload and efficiency analysis
-- **Training management**: Training planning, execution, and assessment
+- **Scheme design** — Online design and review of testing schemes
+- **Record generation** — Auto-generated raw records and inspection data
+- **Quality control** — QC plans and data monitoring
+- **Report generation** — Auto-generated reports with online document editing
+- **Workflow approval** — Multi-level approval powered by the Flowable engine
+- **AI assistance** — AI Agent built on LangChain4j
 
 ## 🛠️ Technology Architecture
 
-### Frontend Stack
-- **Web admin console**: Vue 3 + TypeScript + Element Plus
-- **Mobile app**: Vue 3 + uView + colorUI
-- **Data visualization**: ECharts
-- **State management**: Pinia
-- **Build tool**: Vite
+### Backend (nys_lims_service)
+- **Framework**: Java 17 + Spring Boot 3.2 + MyBatis, built on RuoYi-Vue-fast
+- **Workflow**: Flowable 7.0.1 ｜ **AI integration**: LangChain4j
+- **Storage**: MySQL 8 + Redis 7 + RustFS/S3 object storage
+- **Document processing**: Aspose (Cells / Words / PDF / OCR) + PageOffice online editing
 
-### Backend Stack
-- **Language**: Java 17
-- **Microservices framework**: Spring Boot 3.x
-- **Database**: MySQL 8.0 + Redis 7.0
-- **Message queue**: Apache RocketMQ
-- **File storage**: MinIO
-
-### Security Technologies
-- **Authentication**: OAuth 2.0 + JWT
-- **Data encryption**: AES + RSA
-- **Audit logging**: Operation audit + data traceability
-- **Access control**: RBAC + ABAC
+### Frontend
+- **Admin console (nys_lims_admin)**: Vue 3 + Vite + Element Plus + Pinia + ECharts + BPMN.js process design
+- **Mobile app (nys_lims_app)**: uni-app 3 + Vue 3 + TypeScript + wot-ui — one codebase running on H5 / WeChat Mini Program / Android
 
 ---
 
