@@ -23,6 +23,7 @@ export default defineConfig({
                             { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
                             { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
                             { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' },
+                            { text: 'BestLoad - 优载.装箱桌面软件', link: '/projects/bestload' }
                         ]
                     },
                     {
@@ -44,6 +45,7 @@ export default defineConfig({
                         items: [
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
                             { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
+                            { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
                             { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
                             { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
                             { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
@@ -82,7 +84,8 @@ export default defineConfig({
                             { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
                             { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
                             { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
+                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
+                            { text: 'BestLoad - Cargo Packing Desktop App', link: '/en/projects/bestload' }
                         ]
                     },
                     {
@@ -104,6 +107,7 @@ export default defineConfig({
                         items: [
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
                             { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
+                            { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
                             { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
                             { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
                             { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
@@ -153,7 +157,8 @@ export default defineConfig({
                         { text: 'SKC - 智能钥匙柜', link: '/projects/skc' },
                         { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
                         { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
-                        { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' }
+                        { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' },
+                        { text: 'BestLoad - 优载.装箱桌面软件', link: '/projects/bestload' }
                     ]
                 }
             ],
@@ -166,7 +171,8 @@ export default defineConfig({
                         { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
                         { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
                         { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                        { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
+                        { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
+                        { text: 'BestLoad - Cargo Packing Desktop App', link: '/en/projects/bestload' }
                     ]
                 }
             ],
