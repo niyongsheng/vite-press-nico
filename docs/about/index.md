@@ -2,7 +2,7 @@
 
 ## 👨‍💻 关于 Nico
 
-你好！我是 **Nico**，[Looplooptech](https://www.looplooptech.com) 的全栈独立开发者。
+你好！我是 **Nico**，[Looplooptech](https://www.looplooptech.com) 的全栈个人开发者。
 
 ### 🎯 愿景
 用代码书写自由，用产品连接世界。

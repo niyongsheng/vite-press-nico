@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Nico
-  text: 生非异也，善假于物也
-  tagline: 🤖 独立开发者 —— 长期主义，持续交付
+  text: 个人开发者
+  tagline: 君子生非异也，善假于物也。——《劝学》
   image:
     src: /profile.webp
     alt: nico profile photo

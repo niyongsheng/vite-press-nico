@@ -8,7 +8,7 @@
 
 ## 🎯 项目简介
 
-[nicolab.top](https://nicolab.top)是一个独立开发者的项目介绍网站。
+[nicolab.top](https://nicolab.top)是一个开发者的项目介绍网站。
 
 ## ✨ 核心特性
 

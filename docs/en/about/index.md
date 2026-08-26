@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Nico
 
-Hi! I'm **Nico**, a full-stack independent developer at [Looplooptech](https://www.looplooptech.com).
+Hi! I'm **Nico**, a full-stack individual developer at [Looplooptech](https://www.looplooptech.com).
 
 ### 🎯 Vision
 Write freedom with code, connect the world with products.

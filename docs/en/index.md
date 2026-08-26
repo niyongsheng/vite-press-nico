@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Nico
-  text: Not born different, just good at making use of tools
-  tagline: 🤖 Independent developer — Long-term vision, continuous delivery
+  text: Individual Developer
+  tagline: A gentleman is not born different — he is simply good at making use of things. — Xunzi, "Encouraging Learning"
   image:
     src: /profile.webp
     alt: nico profile photo
