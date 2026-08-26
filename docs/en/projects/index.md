@@ -12,8 +12,6 @@
 
 ### 🔬 LIMS [Laboratory Information Management System](/en/projects/lims)
 
-### 📦 BestLoad [Cargo Packing Desktop App](/en/projects/bestload)
-
 ---
 
 *Let's create value with technology and drive the future with innovation!*
