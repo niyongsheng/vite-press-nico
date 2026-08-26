@@ -5,7 +5,7 @@ import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 export default defineConfig({
     title: 'NicoLab',
-    description: '一个独立开发者的项目介绍网站。',
+    description: '个人开发者的项目介绍网站。',
     lang: 'zh-CN',
     locales: {
         root: {
@@ -22,8 +22,7 @@ export default defineConfig({
                             { text: 'SKC - 智能钥匙柜', link: '/projects/skc' },
                             { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
                             { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
-                            { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' },
-                            { text: 'BestLoad - 优载.装箱桌面软件', link: '/projects/bestload' }
+                            { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' }
                         ]
                     },
                     {
@@ -33,6 +32,7 @@ export default defineConfig({
                             { text: 'Moler', link: 'https://github.com/niyongsheng/moler' },
                             { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
                             { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
+                            { text: 'BestLoad', link: 'https://github.com/niyongsheng/best-load' },
                             { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
                             { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
                             { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
@@ -84,8 +84,7 @@ export default defineConfig({
                             { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
                             { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
                             { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
-                            { text: 'BestLoad - Cargo Packing Desktop App', link: '/en/projects/bestload' }
+                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
                         ]
                     },
                     {
@@ -95,6 +94,7 @@ export default defineConfig({
                             { text: 'Moler', link: 'https://github.com/niyongsheng/moler' },
                             { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
                             { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
+                            { text: 'BestLoad', link: 'https://github.com/niyongsheng/best-load' },
                             { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
                             { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
                             { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
@@ -157,8 +157,7 @@ export default defineConfig({
                         { text: 'SKC - 智能钥匙柜', link: '/projects/skc' },
                         { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
                         { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
-                        { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' },
-                        { text: 'BestLoad - 优载.装箱桌面软件', link: '/projects/bestload' }
+                        { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' }
                     ]
                 }
             ],
@@ -171,8 +170,7 @@ export default defineConfig({
                         { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
                         { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
                         { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                        { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' },
-                        { text: 'BestLoad - Cargo Packing Desktop App', link: '/en/projects/bestload' }
+                        { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
                     ]
                 }
             ],
