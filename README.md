@@ -4,11 +4,11 @@
 
 ![Pages](https://img.shields.io/badge/Developing-0.0.1-brightgreen.svg?style=flat-square)
 
-> 一个基于 VitePress 构建的现代化文档管理系统，采用 VitePress 构建，集成多彩主题和 Vue 组件，提供优雅的文档展示和用户体验。。
+> 一个基于 VitePress 构建的文档管理系统(CMS)，集成多彩主题和 Vue 组件，提供优雅的文档展示和用户体验。
 
 ## 🎯 项目简介
 
-[nicolab.top](https://nicolab.top)是一个开发者的项目介绍网站。
+[https://nicolab.top](https://nicolab.top) 个人开发者的项目介绍网站
 
 ## ✨ 核心特性
 
