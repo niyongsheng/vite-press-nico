@@ -36,8 +36,8 @@ export default defineConfig({
                             { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
                             { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
                             { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
-                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' },
-                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' }
+                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' },
+                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' }
                         ]
                     },
                     {
@@ -100,8 +100,8 @@ export default defineConfig({
                             { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
                             { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
                             { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
-                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' },
-                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' }
+                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' },
+                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' }
                         ]
                     },
                     {
