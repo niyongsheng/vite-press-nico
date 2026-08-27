@@ -60,8 +60,9 @@ export default defineConfig({
                             { text: 'HuilangHome', link: 'https://huilanghome.com' },
                             { text: 'duckly日程管理', link: 'https://niyongsheng.github.io/duckly' },
                             { text: 'SteelTide坦克生存', link: 'https://niyongsheng.github.io/SteelTide' },
-                            { text: 'LuckyDraw年会抽奖', link: 'https://niyongsheng.github.io/luck_draw' },
+                            { text: 'LuckyDraw年会抽奖', link: 'https://niyongsheng.github.io/LuckyDraw' },
                             { text: 'clark-typer《沉寂的回声》', link: 'https://niyongsheng.github.io/clark-typer' },
+                            { text: 'pixel-homepage像素风主页', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
                             { text: 'kataminoTower立方塔求解器', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
                         ]
                     },
@@ -122,8 +123,9 @@ export default defineConfig({
                             { text: 'HuilangHome', link: 'https://huilanghome.com' },
                             { text: 'Duckly - Schedule Management', link: 'https://niyongsheng.github.io/duckly' },
                             { text: 'SteelTide - Tank Survival', link: 'https://niyongsheng.github.io/SteelTide' },
-                            { text: 'LuckyDraw - Annual Event Draw', link: 'https://niyongsheng.github.io/luck_draw' },
-                            { text: 'clark-typer - Echoes of Silence', link: 'https://niyongsheng.github.io/clark-typer/' },
+                            { text: 'LuckyDraw - Annual Event Draw', link: 'https://niyongsheng.github.io/LuckyDraw' },
+                            { text: 'clark-typer - Echoes of Silence', link: 'https://niyongsheng.github.io/clark-typer' },
+                            { text: 'pixel-homepage - Pixel-style Homepage', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
                             { text: 'Katamino Tower - Cube Tower Solver', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
                         ]
                     },
