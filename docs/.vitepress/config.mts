@@ -43,6 +43,7 @@ export default defineConfig({
                     {
                         text: '开源框架',
                         items: [
+                            { text: 'NYSTK', link: 'https://github.com/niyongsheng/NYSTK' },
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
                             { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
                             { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
@@ -106,6 +107,7 @@ export default defineConfig({
                     {
                         text: 'Frameworks',
                         items: [
+                            { text: 'NYSTK', link: 'https://github.com/niyongsheng/NYSTK' },
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
                             { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
                             { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
