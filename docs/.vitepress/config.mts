@@ -139,9 +139,7 @@ export default defineConfig({
         ['link', {rel: 'stylesheet', href: '/.vitepress/theme/custom.css'}],
         // Google Analytics
         ['script', {async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-J7MVDSHN0V'}],
-        ['script', {}, "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-J7MVDSHN0V');"],
-        // CookieBot
-        ['script', {id: 'Cookiebot', src: 'https://consent.cookiebot.com/uc.js', 'data-cbid': '3d19d30c-c3ab-4ea4-a453-0996e2044dea', type: 'text/javascript', async: ''}]
+        ['script', {}, "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-J7MVDSHN0V');"]
     ],
     appearance: true,
     themeConfig: {
