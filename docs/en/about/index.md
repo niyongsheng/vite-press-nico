@@ -34,6 +34,8 @@ Write freedom with code, connect the world with products.
 - **Weekends**: Arranged based on project needs
 - **Response Time**: Within 2 hours on business days
 
+![HardcodeCoder's activity chart](https://github-activity-chart.vercel.app/graph?username=niyongsheng&days=30&bg_color=00000000&theme=github-dark-dimmed&area=true&hide_border=true)
+
 ## 🤝 Business Cooperation
 
 ———— If customers know you haven't wasted their time, they will be generous.

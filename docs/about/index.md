@@ -34,6 +34,10 @@
 - **周末**：根据项目需要安排
 - **响应时间**：工作日 2 小时内回复
 
+<!-- 活动图表：展示过去31天的提交、PR、issue等活动 -->
+[//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=niyongsheng&bg_color=00000000&theme=github-dark-dimmed&area=true&hide_border=true)
+![HardcodeCoder's activity chart](https://github-activity-chart.vercel.app/graph?username=niyongsheng&days=30&bg_color=00000000&theme=github-dark-dimmed&area=true&hide_border=true)
+
 ## 🤝 商务合作
 
 ———— 如果客户知道你没有浪费他的时间，他就会很慷慨。
