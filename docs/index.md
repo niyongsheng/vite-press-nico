@@ -32,6 +32,8 @@ features:
 <!-- 活动图表：展示过去31天的提交、PR、issue等活动 -->
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=niyongsheng&bg_color=00000000&theme=github-dark-dimmed&area=true&hide_border=true)
 ![HardcodeCoder's activity chart](https://github-activity-chart.vercel.app/graph?username=niyongsheng&days=30&bg_color=00000000&theme=github-dark-dimmed&area=true&hide_border=true)
+
+![GitHub 3D Contribution](https://raw.githubusercontent.com/niyongsheng/vite-press-nico/main/profile-3d-contrib/profile-night-view.svg)
 ---
 
 *✨ NicoLab, infinite possibility & limited progress.*
