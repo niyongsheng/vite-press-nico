@@ -1,0 +1,24 @@
+/* 首页特性卡片：图标与标题同行显示 */
+.VPFeature .box {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas:
+    'icon title'
+    'details details';
+  column-gap: 12px;
+  align-items: center;
+}
+
+.VPFeature .box > .icon {
+  grid-area: icon;
+  margin-bottom: 0;
+}
+
+.VPFeature .box > .title {
+  grid-area: title;
+}
+
+.VPFeature .box > .details {
+  grid-area: details;
+}

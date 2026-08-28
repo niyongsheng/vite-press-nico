@@ -1,6 +1,7 @@
 import type { Theme } from 'vitepress'
 import ColorfulTheme from 'vitepress-colorful-themes'
 import Layout from './Layout.vue'
+import './custom.css'
 
 export default {
     extends: ColorfulTheme,
