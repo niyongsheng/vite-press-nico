@@ -29,10 +29,7 @@ features:
     details: Staying calm and focused under pressure, delivering reliably — a trustworthy long-term partner.
 
 ---
-
-<!-- Activity Graph: Display commits, PRs, issues and other activities from the past 31 days -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=niyongsheng&bg_color=00000000&theme=github-dark-dimmed&area=true&hide_border=true)
-
+![GitHub 3D Contribution](https://raw.githubusercontent.com/niyongsheng/vite-press-nico/main/profile-3d-contrib/profile-night-view.svg)
 ---
 
 *✨ NicoLab, infinite possibility & limited progress.*
