@@ -3,6 +3,11 @@ name: Deploy VitePress site to Pages
 on:
   push:
     branches: [main]
+    paths: # 仅站点相关文件变更时部署；profile-3d-contrib/ 等更新不会触发
+      - docs/**
+      - package.json
+      - yarn.lock
+      - .github/workflows/deploy.yml
   workflow_dispatch:
 
 permissions:
