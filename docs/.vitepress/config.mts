@@ -137,11 +137,22 @@ export default defineConfig({
     head: [
         ['link', { rel: 'icon', href: '/logo.svg' }],
         ['link', {rel: 'stylesheet', href: '/.vitepress/theme/custom.css'}],
+        // 首帧渲染前应用蓝宝石主题，避免从默认紫蓝渐变跳变
+        ['script', {}, `(function() {
+            var t = document.documentElement;
+            ['default','emerald','ruby','amber','sapphire','amethyst','mint','ocean','coral','graphite','sakura','starry','deep-ocean','forest-green','warm-gold'].forEach(function(name) {
+                t.classList.remove('theme-' + name);
+            });
+            t.classList.add('theme-sapphire');
+            if (!localStorage.getItem('vitepress-theme')) {
+                localStorage.setItem('vitepress-theme', 'sapphire');
+            }
+        })()`],
         // Google Analytics
         ['script', {async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-J7MVDSHN0V'}],
         ['script', {}, "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-J7MVDSHN0V');"]
     ],
-    appearance: true,
+    appearance: 'dark',
     themeConfig: {
         // 基础主题配置
         siteTitle: 'NicoLab',

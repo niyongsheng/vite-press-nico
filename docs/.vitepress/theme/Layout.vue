@@ -2,7 +2,7 @@
 <script setup lang="ts">
 import {useData} from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import {nextTick, onMounted, onUnmounted, provide, ref} from 'vue'
+import {nextTick, provide} from 'vue'
 
 const {Layout} = DefaultTheme
 const {isDark} = useData()
@@ -10,36 +10,7 @@ const {isDark} = useData()
 const enableTransitions = () =>
     'startViewTransition' in document && window.matchMedia('(prefers-reduced-motion: no-preference)').matches
 
-const showMobileThemeSelector = ref(false)
-
-const handleScroll = () => {
-  const scrollTop = window.scrollY || document.documentElement.scrollTop
-  showMobileThemeSelector.value = scrollTop > 300
-}
-
-// 设置默认主题
-const setDefaultTheme = () => {
-  const themes = ['default', 'emerald', 'ruby', 'amber', 'sapphire', 'amethyst', 'mint', 'ocean', 'coral', 'graphite', 'sakura', 'starry', 'deep-ocean', 'forest-green', 'warm-gold']
-  themes.forEach(theme => {
-    document.documentElement.classList.remove(`theme-${theme}`)
-  })
-  // 添加 sapphire 主题类
-  document.documentElement.classList.add('theme-sapphire')
-  localStorage.setItem('vitepress-theme', 'sapphire')
-}
-
-onMounted(() => {
-  window.addEventListener('scroll', handleScroll)
-
-  // 延迟设置默认主题，确保插件先初始化
-  nextTick(() => {
-    setDefaultTheme()
-  })
-})
-
-onUnmounted(() => {
-  window.removeEventListener('scroll', handleScroll)
-})
+// 主题初始化（theme-sapphire）由 config.mts 的 head 内联脚本在首帧渲染前完成，此处无需再处理
 
 provide('toggle-appearance', async ({clientX: x, clientY: y}: MouseEvent) => {
   if (!enableTransitions()) {
