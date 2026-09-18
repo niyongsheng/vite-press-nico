@@ -46,6 +46,7 @@ export default defineConfig({
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
                             { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
                             { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
+                            { text: 'SmartPather', link: 'https://github.com/niyongsheng/SmartPather' },
                             { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
                             { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
                             { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
@@ -109,6 +110,7 @@ export default defineConfig({
                             { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
                             { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
                             { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
+                            { text: 'SmartPather', link: 'https://github.com/niyongsheng/SmartPather' },
                             { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
                             { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
                             { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
