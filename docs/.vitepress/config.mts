@@ -18,53 +18,55 @@ export default defineConfig({
                         text: '商业项目',
                         items: [
                             { text: '项目概览', link: '/projects/' },
-                            { text: 'WMS - 仓库管理系统', link: '/projects/wms' },
-                            { text: 'SKC - 智能钥匙柜', link: '/projects/skc' },
-                            { text: 'ICMS - 智慧社区管理系统', link: '/projects/icms' },
-                            { text: 'Missage - 音视频聊天系统', link: '/projects/missage' },
-                            { text: 'LIMS - 实验室信息管理系统', link: '/projects/lims' }
+                            { text: 'WMS<span class="nav-desc">仓库管理系统</span>', link: '/projects/wms' },
+                            { text: 'SKC<span class="nav-desc">智能钥匙柜</span>', link: '/projects/skc' },
+                            { text: 'ICMS<span class="nav-desc">智慧社区管理系统</span>', link: '/projects/icms' },
+                            { text: 'Missage<span class="nav-desc">音视频聊天系统</span>', link: '/projects/missage' },
+                            { text: 'LIMS<span class="nav-desc">实验室信息管理系统</span>', link: '/projects/lims' }
                         ]
                     },
                     {
                         text: '开源项目',
                         items: [
-                            { text: 'ARCC', link: 'https://github.com/niyongsheng/arcc' },
-                            { text: 'Moler', link: 'https://github.com/niyongsheng/moler' },
-                            { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
-                            { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
-                            { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
-                            { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
-                            { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
-                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' },
-                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' }
+                            { text: 'ARCC<span class="nav-desc">终端ai代理cli工具</span>', link: 'https://github.com/niyongsheng/arcc' },
+                            { text: 'Moler<span class="nav-desc">mac垃圾清理应用</span>', link: 'https://github.com/niyongsheng/moler' },
+                            { text: 'Mythpen<span class="nav-desc">ai辅助写小说应用</span>', link: 'https://github.com/niyongsheng/mythpen' },
+                            { text: 'Releaseon<span class="nav-desc">app内测分发项目</span>', link: 'https://github.com/niyongsheng/releaseon' },
+                            { text: 'ArcOffice<span class="nav-desc">ai自动化文档工具</span>', link: 'https://github.com/Arc-River/ArcOffice' },
+                            { text: 'AudioScript<span class="nav-desc">电脑语音转写应用</span>', link: 'https://github.com/niyongsheng/AudioScript' },
+                            { text: 'PinShell<span class="nav-desc">mac桌面锚定框应用</span>', link: 'https://github.com/niyongsheng/PinShell' },
+                            { text: 'TFFileExtractor<span class="nav-desc">sd卡加密文件提取工具</span>', link: 'https://github.com/niyongsheng/TFFileExtractor' },
+                            { text: 'HoloCubic<span class="nav-desc">ar小电视硬件</span>', link: 'https://github.com/niyongsheng/HoloCubic' },
+                            { text: 'ps2x_smart_car<span class="nav-desc">diy遥控车玩具</span>', link: 'https://github.com/niyongsheng/ps2x_smart_car' }
                         ]
                     },
                     {
                         text: '开源框架',
                         items: [
-                            { text: 'NYSTK', link: 'https://github.com/niyongsheng/NYSTK' },
-                            { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
-                            { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
-                            { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
-                            { text: 'SmartPather', link: 'https://github.com/niyongsheng/SmartPather' },
-                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
-                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
-                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
+                            { text: 'NYSTK<span class="nav-desc">ios弹窗组件库</span>', link: 'https://github.com/niyongsheng/NYSTK' },
+                            { text: 'NYSKit<span class="nav-desc">ios项目脚手架</span>', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'RediQueue<span class="nav-desc">redis简易队列</span>', link: 'https://github.com/niyongsheng/RediQueue' },
+                            { text: 'SmartPacker<span class="nav-desc">3d装箱算法库</span>', link: 'https://github.com/niyongsheng/SmartPacker' },
+                            { text: 'SmartPather<span class="nav-desc">2d路径规划库</span>', link: 'https://github.com/niyongsheng/SmartPather' },
+                            { text: 'OncecodeView<span class="nav-desc">ios验证码/密码组件</span>', link: 'https://github.com/niyongsheng/OncecodeView' },
+                            { text: 'free-vision-skill<span class="nav-desc">llm本地ocr技能</span>', link: 'https://github.com/niyongsheng/free-vision-skill' },
+                            { text: 'markdown-it-vue3<span class="nav-desc">markdown流式渲染组件</span>', link: 'https://github.com/niyongsheng/markdown-it-vue3' },
+                            { text: 'ruoyi-vue-nys<span class="nav-desc">若依admin-ui脚手架</span>', link: 'https://github.com/niyongsheng/ruoyi-vue-nys' }
                         ]
                     },
                     {
                         text: '网站',
                         items: [
-                            { text: 'YohoPVC', link: 'https://yohopvc.com' },
-                            { text: 'YouhePVC', link: 'https://youhepvc.com' },
-                            { text: 'HandPanCraft', link: 'https://handpancraft.com' },
-                            { text: 'HuilangHome', link: 'https://huilanghome.com' },
-                            { text: 'duckly日程管理', link: 'https://niyongsheng.github.io/duckly' },
-                            { text: 'SteelTide坦克生存', link: 'https://niyongsheng.github.io/SteelTide' },
-                            { text: 'LuckyDraw年会抽奖', link: 'https://niyongsheng.github.io/LuckyDraw' },
-                            { text: 'clark-typer《沉寂的回声》', link: 'https://niyongsheng.github.io/clark-typer' },
-                            { text: 'pixel-homepage像素风主页', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
-                            { text: 'kataminoTower立方塔求解器', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
+                            { text: 'YohoPVC<span class="nav-desc">外贸网站</span>', link: 'https://yohopvc.com' },
+                            { text: 'YouhePVC<span class="nav-desc">企业官网</span>', link: 'https://youhepvc.com' },
+                            { text: 'HandPanCraft<span class="nav-desc">手碟外贸站</span>', link: 'https://handpancraft.com' },
+                            { text: 'HuilangHome<span class="nav-desc">陶瓷外贸站</span>', link: 'https://huilanghome.com' },
+                            { text: 'duckly<span class="nav-desc">创意日程管理</span>', link: 'https://niyongsheng.github.io/duckly' },
+                            { text: 'SteelTide<span class="nav-desc">坦克大战小游戏</span>', link: 'https://niyongsheng.github.io/SteelTide' },
+                            { text: 'LuckyDraw<span class="nav-desc">年会抽奖网站</span>', link: 'https://niyongsheng.github.io/LuckyDraw' },
+                            { text: 'clark-typer<span class="nav-desc">科幻《沉寂的回声》</span>', link: 'https://niyongsheng.github.io/clark-typer' },
+                            { text: 'pixel-homepage<span class="nav-desc">像素风个人主页</span>', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
+                            { text: 'kataminoTower<span class="nav-desc">立方塔玩具求解器</span>', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
                         ]
                     },
                     { text: '关于我', link: '/about/' }
@@ -82,53 +84,55 @@ export default defineConfig({
                         text: 'Projects',
                         items: [
                             { text: 'Project Overview', link: '/en/projects/' },
-                            { text: 'WMS - Warehouse Management System', link: '/en/projects/wms' },
-                            { text: 'SKC - Smart Key Cabinet', link: '/en/projects/skc' },
-                            { text: 'ICMS - Smart Community Management System', link: '/en/projects/icms' },
-                            { text: 'Missage - Audio/Video Chat System', link: '/en/projects/missage' },
-                            { text: 'LIMS - Laboratory Information Management System', link: '/en/projects/lims' }
+                            { text: 'WMS<span class="nav-desc">Warehouse Management System</span>', link: '/en/projects/wms' },
+                            { text: 'SKC<span class="nav-desc">Smart Key Cabinet</span>', link: '/en/projects/skc' },
+                            { text: 'ICMS<span class="nav-desc">Smart Community Management System</span>', link: '/en/projects/icms' },
+                            { text: 'Missage<span class="nav-desc">Audio/Video Chat System</span>', link: '/en/projects/missage' },
+                            { text: 'LIMS<span class="nav-desc">Laboratory Information Management System</span>', link: '/en/projects/lims' }
                         ]
                     },
                     {
                         text: 'Open Source',
                         items: [
-                            { text: 'ARCC', link: 'https://github.com/niyongsheng/arcc' },
-                            { text: 'Moler', link: 'https://github.com/niyongsheng/moler' },
-                            { text: 'Mythpen', link: 'https://github.com/niyongsheng/mythpen' },
-                            { text: 'Releaseon', link: 'https://github.com/niyongsheng/releaseon' },
-                            { text: 'ArcOffice', link: 'https://github.com/Arc-River/ArcOffice' },
-                            { text: 'PinShell', link: 'https://github.com/niyongsheng/PinShell' },
-                            { text: 'HoloCubic', link: 'https://github.com/niyongsheng/HoloCubic' },
-                            { text: 'TFFileExtractor', link: 'https://github.com/niyongsheng/TFFileExtractor' },
-                            { text: 'ps2x_smart_car', link: 'https://github.com/niyongsheng/ps2x_smart_car' }
+                            { text: 'ARCC<span class="nav-desc">Terminal AI Agent</span>', link: 'https://github.com/niyongsheng/arcc' },
+                            { text: 'Moler<span class="nav-desc">Mac Cleanup App</span>', link: 'https://github.com/niyongsheng/moler' },
+                            { text: 'Mythpen<span class="nav-desc">AI-Assisted Novel Writing</span>', link: 'https://github.com/niyongsheng/mythpen' },
+                            { text: 'Releaseon<span class="nav-desc">App Beta Distribution</span>', link: 'https://github.com/niyongsheng/releaseon' },
+                            { text: 'ArcOffice<span class="nav-desc">AI Document Tools</span>', link: 'https://github.com/Arc-River/ArcOffice' },
+                            { text: 'AudioScript<span class="nav-desc">Live Speech Translation</span>', link: 'https://github.com/niyongsheng/AudioScript' },
+                            { text: 'PinShell<span class="nav-desc">Mac Desktop Pinning Frame</span>', link: 'https://github.com/niyongsheng/PinShell' },
+                            { text: 'TFFileExtractor<span class="nav-desc">Encrypted Memory Card Extractor</span>', link: 'https://github.com/niyongsheng/TFFileExtractor' },
+                            { text: 'HoloCubic<span class="nav-desc">AR Mini TV Hardware</span>', link: 'https://github.com/niyongsheng/HoloCubic' },
+                            { text: 'ps2x_smart_car<span class="nav-desc">RC Car Toy</span>', link: 'https://github.com/niyongsheng/ps2x_smart_car' }
                         ]
                     },
                     {
                         text: 'Frameworks',
                         items: [
-                            { text: 'NYSTK', link: 'https://github.com/niyongsheng/NYSTK' },
-                            { text: 'NYSKit', link: 'https://github.com/niyongsheng/NYSKit' },
-                            { text: 'RediQueue', link: 'https://github.com/niyongsheng/RediQueue' },
-                            { text: 'SmartPacker', link: 'https://github.com/niyongsheng/SmartPacker' },
-                            { text: 'SmartPather', link: 'https://github.com/niyongsheng/SmartPather' },
-                            { text: 'OncecodeView', link: 'https://github.com/niyongsheng/OncecodeView' },
-                            { text: 'free-vision-skill', link: 'https://github.com/niyongsheng/free-vision-skill' },
-                            { text: 'markdown-it-vue3', link: 'https://github.com/niyongsheng/markdown-it-vue3' }
+                            { text: 'NYSTK<span class="nav-desc">iOS Popup Component</span>', link: 'https://github.com/niyongsheng/NYSTK' },
+                            { text: 'NYSKit<span class="nav-desc">iOS Project Scaffold</span>', link: 'https://github.com/niyongsheng/NYSKit' },
+                            { text: 'RediQueue<span class="nav-desc">Simple Redis Queue</span>', link: 'https://github.com/niyongsheng/RediQueue' },
+                            { text: 'SmartPacker<span class="nav-desc">3D Bin Packing Library</span>', link: 'https://github.com/niyongsheng/SmartPacker' },
+                            { text: 'SmartPather<span class="nav-desc">2D Path Planning Library</span>', link: 'https://github.com/niyongsheng/SmartPather' },
+                            { text: 'OncecodeView<span class="nav-desc">iOS Verification Code Component</span>', link: 'https://github.com/niyongsheng/OncecodeView' },
+                            { text: 'free-vision-skill<span class="nav-desc">Local OCR Skill for LLMs</span>', link: 'https://github.com/niyongsheng/free-vision-skill' },
+                            { text: 'markdown-it-vue3<span class="nav-desc">Markdown Rendering Component</span>', link: 'https://github.com/niyongsheng/markdown-it-vue3' },
+                            { text: 'ruoyi-vue-nys<span class="nav-desc">RuoYi Admin-UI Scaffold</span>', link: 'https://github.com/niyongsheng/ruoyi-vue-nys' }
                         ]
                     },
                     {
                         text: 'Websites',
                         items: [
-                            { text: 'YohoPVC', link: 'https://yohopvc.com' },
-                            { text: 'YouhePVC', link: 'https://youhepvc.com' },
-                            { text: 'HandPanCraft', link: 'https://handpancraft.com' },
-                            { text: 'HuilangHome', link: 'https://huilanghome.com' },
-                            { text: 'Duckly - Schedule Management', link: 'https://niyongsheng.github.io/duckly' },
-                            { text: 'SteelTide - Tank Survival', link: 'https://niyongsheng.github.io/SteelTide' },
-                            { text: 'LuckyDraw - Annual Event Draw', link: 'https://niyongsheng.github.io/LuckyDraw' },
-                            { text: 'clark-typer - Echoes of Silence', link: 'https://niyongsheng.github.io/clark-typer' },
-                            { text: 'pixel-homepage - Pixel-style Homepage', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
-                            { text: 'Katamino Tower - Cube Tower Solver', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
+                            { text: 'YohoPVC<span class="nav-desc">Foreign Trade Site</span>', link: 'https://yohopvc.com' },
+                            { text: 'YouhePVC<span class="nav-desc">Corporate Website</span>', link: 'https://youhepvc.com' },
+                            { text: 'HandPanCraft<span class="nav-desc">Handpan Foreign Trade Site</span>', link: 'https://handpancraft.com' },
+                            { text: 'HuilangHome<span class="nav-desc">Ceramic Foreign Trade Site</span>', link: 'https://huilanghome.com' },
+                            { text: 'Duckly<span class="nav-desc">Schedule Management</span>', link: 'https://niyongsheng.github.io/duckly' },
+                            { text: 'SteelTide<span class="nav-desc">Tank Survival Game</span>', link: 'https://niyongsheng.github.io/SteelTide' },
+                            { text: 'LuckyDraw<span class="nav-desc">Annual Event Draw</span>', link: 'https://niyongsheng.github.io/LuckyDraw' },
+                            { text: 'clark-typer<span class="nav-desc">Echoes of Silence</span>', link: 'https://niyongsheng.github.io/clark-typer' },
+                            { text: 'pixel-homepage<span class="nav-desc">Pixel-style Homepage</span>', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
+                            { text: 'Katamino Tower<span class="nav-desc">Cube Tower Solver</span>', link: 'https://niyongsheng.github.io/katamino-tower/katamino_tower_solver.html' }
                         ]
                     },
                     { text: 'About', link: '/en/about/' }

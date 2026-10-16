@@ -1,3 +1,19 @@
+/* 导航下拉项：标题 + 副标题两行显示，副标题弱化
+   副标题统一用 .nav-desc 标记，桌面下拉与移动端汉堡菜单都适用，无需按组件分别写；
+   副标题是块级元素，会把默认主题的外链箭头挤到第三行，故去掉该箭头（content: none 使其不生成） */
+.nav-desc {
+  display: block;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--vp-c-text-3);
+  white-space: nowrap;
+}
+
+.link:has(.nav-desc)::after {
+  content: none;
+}
+
 /* 首页特性卡片：图标与标题同行显示 */
 .VPFeature .box {
   display: grid;
