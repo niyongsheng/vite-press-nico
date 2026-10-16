@@ -136,7 +136,12 @@ export default defineConfig({
                         ]
                     },
                     { text: 'About', link: '/en/about/' }
-                ]
+                ],
+                // 英文页脚；locale 的 themeConfig 与顶层是浅合并，需整体覆盖 footer
+                footer: {
+                    message: 'Write freedom with code, connect the world with products.',
+                    copyright: 'Copyright © 2025 NicoLab. All rights reserved.'
+                }
             }
         }
     },
