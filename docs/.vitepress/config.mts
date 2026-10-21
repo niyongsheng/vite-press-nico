@@ -55,14 +55,20 @@ export default defineConfig({
                         ]
                     },
                     {
+                        text: '游戏',
+                        items: [
+                            { text: 'SteelTide<span class="nav-desc">《钢铁潮汐》坦克游戏</span>', link: 'https://niyongsheng.github.io/SteelTide' },
+                            { text: 'Scarebird<span class="nav-desc">《惊弓之鸟》手势游戏</span>', link: 'https://niyongsheng.github.io/scarebird' }
+                        ]
+                    },
+                    {
                         text: '网站',
                         items: [
                             { text: 'YohoPVC<span class="nav-desc">外贸网站</span>', link: 'https://yohopvc.com' },
                             { text: 'YouhePVC<span class="nav-desc">企业官网</span>', link: 'https://youhepvc.com' },
-                            { text: 'HandPanCraft<span class="nav-desc">手碟外贸站</span>', link: 'https://handpancraft.com' },
-                            { text: 'HuilangHome<span class="nav-desc">陶瓷外贸站</span>', link: 'https://huilanghome.com' },
+                            { text: '<span class="nav-dead">HandPanCraft</span><span class="nav-desc">手碟外贸站</span>', link: 'https://handpancraft.com' },
+                            { text: '<span class="nav-dead">HuilangHome</span><span class="nav-desc">陶瓷外贸站</span>', link: 'https://huilanghome.com' },
                             { text: 'duckly<span class="nav-desc">创意日程管理</span>', link: 'https://niyongsheng.github.io/duckly' },
-                            { text: 'SteelTide<span class="nav-desc">坦克大战小游戏</span>', link: 'https://niyongsheng.github.io/SteelTide' },
                             { text: 'LuckyDraw<span class="nav-desc">年会抽奖网站</span>', link: 'https://niyongsheng.github.io/LuckyDraw' },
                             { text: 'clark-typer<span class="nav-desc">科幻《沉寂的回声》</span>', link: 'https://niyongsheng.github.io/clark-typer' },
                             { text: 'pixel-homepage<span class="nav-desc">像素风个人主页</span>', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
@@ -121,14 +127,20 @@ export default defineConfig({
                         ]
                     },
                     {
+                        text: 'Games',
+                        items: [
+                            { text: 'SteelTide<span class="nav-desc">Tank Game</span>', link: 'https://niyongsheng.github.io/SteelTide' },
+                            { text: 'Scarebird<span class="nav-desc">Gesture Game</span>', link: 'https://niyongsheng.github.io/scarebird' }
+                        ]
+                    },
+                    {
                         text: 'Websites',
                         items: [
                             { text: 'YohoPVC<span class="nav-desc">Foreign Trade Site</span>', link: 'https://yohopvc.com' },
                             { text: 'YouhePVC<span class="nav-desc">Corporate Website</span>', link: 'https://youhepvc.com' },
-                            { text: 'HandPanCraft<span class="nav-desc">Handpan Foreign Trade Site</span>', link: 'https://handpancraft.com' },
-                            { text: 'HuilangHome<span class="nav-desc">Ceramic Foreign Trade Site</span>', link: 'https://huilanghome.com' },
+                            { text: '<span class="nav-dead">HandPanCraft</span><span class="nav-desc">Handpan Foreign Trade Site</span>', link: 'https://handpancraft.com' },
+                            { text: '<span class="nav-dead">HuilangHome</span><span class="nav-desc">Ceramic Foreign Trade Site</span>', link: 'https://huilanghome.com' },
                             { text: 'Duckly<span class="nav-desc">Schedule Management</span>', link: 'https://niyongsheng.github.io/duckly' },
-                            { text: 'SteelTide<span class="nav-desc">Tank Survival Game</span>', link: 'https://niyongsheng.github.io/SteelTide' },
                             { text: 'LuckyDraw<span class="nav-desc">Annual Event Draw</span>', link: 'https://niyongsheng.github.io/LuckyDraw' },
                             { text: 'clark-typer<span class="nav-desc">Echoes of Silence</span>', link: 'https://niyongsheng.github.io/clark-typer' },
                             { text: 'pixel-homepage<span class="nav-desc">Pixel-style Homepage</span>', link: 'https://niyongsheng.github.io/pixel-homepage/PixelHomepage' },
